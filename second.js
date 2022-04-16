@@ -6,3 +6,5 @@ console.log('hi')
 console.log('Welcome')
 
 console.log('Not welcome here')
+
+console.log('Bye')
